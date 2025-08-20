@@ -1,4 +1,4 @@
-
+import  { Component } from 'react'
 
 export default function TodoList() {
   return (
@@ -84,3 +84,4 @@ export default function TodoList() {
     
   )
 }
+
